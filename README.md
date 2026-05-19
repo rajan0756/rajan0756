@@ -68,10 +68,7 @@ A full-stack recommendation system that suggests songs based on user preferences
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan0756&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan0756&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+  ![Rajan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rajan0756&theme=tokyonight&hide_border=true)
 
 ---
 
